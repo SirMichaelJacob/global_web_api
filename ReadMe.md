@@ -94,11 +94,7 @@ xUnit, Moq and InMemory databases are used for unit testing.
 ## How to run
 
 ```
-// Build  
-dotnet build
 
-// Run  
-dotnet run
 ```
 
 The API will run on https://localhost:7255 by default.
